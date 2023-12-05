@@ -20,7 +20,6 @@ second_page = None
 sales_data = {}
 admin_mode_counter = 0
 
-
 def open_admin_mode():
     global admin_mode_counter
     admin_mode_counter += 1
